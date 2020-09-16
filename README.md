@@ -4,11 +4,18 @@
 - - -
 ## Title : One Life ##
 - - -
-## Unity, C# ##
+## Using : Unity, C# ##
 - - -
-Demo Video
+Demo Video1 - play video
+
 [![Video Label](http://img.youtube.com/vi/1gCWyYMCdSY/0.jpg)](https://www.youtube.com/embed/1gCWyYMCdSY)
+
 [Youtube Link](https://www.youtube.com/embed/1gCWyYMCdSY)
 
+===========
 
-[![Video Label](http://img.youtube.com/vi/V1jFXhBzlAc/0.jpg)](https://youtu.be/V1jFXhBzlAc)
+Demo Video2 - dead scene
+
+[![Video Label](http://img.youtube.com/vi/UTx2fi_25ro/0.jpg)](https://www.youtube.com/embed/UTx2fi_25ro)
+
+[Youtube Link](https://www.youtube.com/embed/UTx2fi_25ro)
