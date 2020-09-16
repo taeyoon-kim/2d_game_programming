@@ -6,4 +6,9 @@
 - - -
 ## Unity, C# ##
 - - -
-Demo Video : [Youtube Link](https://www.youtube.com/embed/1gCWyYMCdSY)
+Demo Video
+[![Video Label](http://img.youtube.com/vi/1gCWyYMCdSY/0.jpg)](https://www.youtube.com/embed/1gCWyYMCdSY)
+[Youtube Link](https://www.youtube.com/embed/1gCWyYMCdSY)
+
+
+[![Video Label](http://img.youtube.com/vi/V1jFXhBzlAc/0.jpg)](https://youtu.be/V1jFXhBzlAc)
