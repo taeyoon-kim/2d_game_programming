@@ -1,12 +1,13 @@
 # 2d_game_programming
 
-## ***script*** : 2014112553Final -> Assets -> Scripts ##
-
 ## Title ##
 - One Life
 
 ## Using ##
 - Unity, C# 
+
+## ***Script Folder Location*** ##
+- 2014112553Final -> Assets -> Scripts
 
 ## Demo Video1 - play video ##
 
