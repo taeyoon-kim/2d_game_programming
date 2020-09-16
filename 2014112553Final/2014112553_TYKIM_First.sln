@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2014112553_TYKIM_First", "Assembly-CSharp.csproj", "{2F733192-F318-C989-5943-7FD4D499AA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F733192-F318-C989-5943-7FD4D499AA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F733192-F318-C989-5943-7FD4D499AA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F733192-F318-C989-5943-7FD4D499AA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F733192-F318-C989-5943-7FD4D499AA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
